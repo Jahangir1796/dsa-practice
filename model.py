@@ -1,1 +1,1 @@
-"model = DecisionTreeClassifier(max_depth=3)" 
+model = DecisionTreeClassifier(max_depth=3) 
