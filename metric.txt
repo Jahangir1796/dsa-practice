@@ -1,1 +1,1 @@
-Target metric: Macro F1 score 
+Target metric: Macro F1 score (prioritizing minority class) 
