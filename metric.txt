@@ -1,1 +1,1 @@
-"Target metric: Accuracy score" 
+"Target metric: Macro F1 score" 
